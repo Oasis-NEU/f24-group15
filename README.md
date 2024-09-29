@@ -1,8 +1,11 @@
-# React + Vite
+##  NEU AchievementWorks
+Authors:
+<span> [Aidan Lok Sang Wong](https://github.com/aidanwls), [George Kressler](https://github.com/george-kressler), [Will Jackson](https://github.com/wvnn) </span>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Project Description
+NEU AchievementWorks simplifies the degree audit at Northeastern. The website is designed to help students navigate their degree requirements by displaying them as achievements. Prerequisites courses are shown as parents in a tree, and "unlock" advanced courses when they are completed. As students who find the current system difficult to use, we are making a website that will make the process both fun and easy. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Features
+* Vizualization of courses as a tree based on prerequisites
+* Select completed courses to view remaining requirements
+* Log-in system to track progress across semesters
