@@ -4,8 +4,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: rgba(205, 5, 5, 0.87);
+  background-color: #918f8f;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -65,4 +65,12 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.classes {
+  margin-left: 50px;
+}
+
+.title {
+  margin: auto 150px;
 }
